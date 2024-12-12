@@ -24,7 +24,7 @@
 
 ## :telephone::email: My Contacts 
 
-<a href="atamaniukdenysv@gmail.com">
+<a href="mailto:atamaniukdenysv@gmail.com">
 <img src="https://camo.githubusercontent.com/a612087b80447910019fee18734a3fb4fd2961d4b2b3207b61ee2a140ad4fd35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d666666266c696e6b3d6174616d616e69756b64656e797376253430676d61696c2e636f6d"></a>
 
 <a href="https://t.me/Deni4ka_1">
