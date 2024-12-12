@@ -1,7 +1,6 @@
-# Hello, I'm Denys 👋
-
-## :sunglasses: About me
-:memo:Hello! My name is Denys Atamaniuk, I am 21 years old, and I am a junior frontend developer. I have experience working with :hammer_and_wrench: **HTML**, **CSS**, and **JavaScript**, which allows me to create modern and functional web pages. I strive for development in the field of programming, learning new libraries and frameworks.<br> :dart:My goal is to become an expert in creating the frontend part of websites, ensuring high quality code and excellent user experience. I actively study new technologies and work methods to stay up to date with the latest trends in web development.
+<h1 align="center"> Hello, I'm Denys 👋 </h1>
+:sunglasses: About me
+:memo:Hello! My name is Denys Atamaniuk, I am 21 years old, and I am a junior frontend developer. I have experience working with :hammer_and_wrench: <b>Html</b>, <b>CSS</b>, and <b>JavaScript</b>, which allows me to create modern and functional web pages. I strive for development in the field of programming, learning new libraries and frameworks.<br> :dart:My goal is to become an expert in creating the frontend part of websites, ensuring high quality code and excellent user experience. I actively study new technologies and work methods to stay up to date with the latest trends in web development.
 
 ## :building_construction: My Tech Stack
 <p align="left">
@@ -24,5 +23,7 @@
 </p>
 
 ## :telephone::email: My Contacts 
-1. :mailbox:[My Еmail](atamaniukdenysv@gmail.com)
-2. :gem:[My Telegram](https://t.me/Deni4ka_1)
+![Static Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=fff&link=atamaniukdenysv%40gmail.com)
+![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=fff&link=https%3A%2F%2Ft.me%2FDeni4ka_1)
+
+
