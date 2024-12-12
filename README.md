@@ -25,5 +25,11 @@
 ## :telephone::email: My Contacts 
 ![Static Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=fff&link=atamaniukdenysv%40gmail.com)
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=fff&link=https%3A%2F%2Ft.me%2FDeni4ka_1)
+![Static Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=fff&logoSize=amg&link=https%3A%2F%2Ft.me%2FDeni4ka_1)
+![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=fff&logoSize=amg&link=t.me%2FDeni4ka_1)
+<a href="https://t.me/Deni4ka_1">
+<img src="https://camo.githubusercontent.com/3be958ef8a563cbd7b42a040d6357cc16812ba730b640c10ff6ba78a6495f5a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d666666266c696e6b3d6874747073253341253246253246742e6d6525324644656e69346b615f31"></a>
+
+
 
 
