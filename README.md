@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Denys 👋 </h1>
 :sunglasses: About me
-:memo:Hello! My name is Denys Atamaniuk, I am 21 years old, and I am a junior frontend developer. I have experience working with :hammer_and_wrench: <b>Html</b>, <b>CSS</b>, and <b>JavaScript</b>, which allows me to create modern and functional web pages. I strive for development in the field of programming, learning new libraries and frameworks.<br> :dart:My goal is to become an expert in creating the frontend part of websites, ensuring high quality code and excellent user experience. I actively study new technologies and work methods to stay up to date with the latest trends in web development.
+:memo:Hello! My name is Denys, I am 21 years old, and I am a junior frontend developer. I have experience working with :hammer_and_wrench: <b>Html</b>, <b>CSS</b>, and <b>JavaScript</b>, which allows me to create modern and functional web pages. I strive for development in the field of programming, learning new libraries and frameworks.<br> :dart:My goal is to become an expert in creating the frontend part of websites, ensuring high quality code and excellent user experience. I actively study new technologies and work methods to stay up to date with the latest trends in web development.
 
 ## :building_construction: My Tech Stack
 <p align="left">
